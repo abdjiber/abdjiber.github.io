@@ -2,7 +2,7 @@
 title: "Information systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-information-systems
+permalink: /teaching/information-systems
 venue: "Université Clermont Auvergne, ISIMA"
 date: 2020-09-16
 location: "Aubière, France"

@@ -2,7 +2,7 @@
 title: "Data base and Web"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-data-base-and-web
+permalink: /teaching/data-base-and-web
 venue: "Université Clermont Auvergne, ISIMA"
 date: 2020-09-15
 location: "Aubière, France"
