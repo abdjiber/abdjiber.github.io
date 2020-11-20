@@ -1,5 +1,5 @@
 ---
-title: "Categorical fuzzy entropy C-means clustering method"
+title: "Categorical fuzzy entropy C-means"
 collection: publications
 permalink: /publication/2020-08-24-cfe-fuzzieee
 excerpt: 'Categorical fuzzy entropy C-means clustering method.'
@@ -8,6 +8,7 @@ venue: 'FUZZ-IEEE'
 paperurl: 'https://ieeexplore.ieee.org/document/9177666'
 citation: 'A. J. Djiberou Mahamadou, V. Antoine, E. M. Nguifo and S. Moreno, &quot;Categorical fuzzy entropy c-means,&quot; <i>2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</i>, Glasgow, United Kingdom, 2020, pp. 1-6.'
 ---
+Categorical fuzzy entropy C-means clustering method.
 
 ## Abstract
 
@@ -15,6 +16,5 @@ Hard and fuzzy clustering algorithms are part of the partition-based clustering 
 
 <a href='https://ieeexplore.ieee.org/document/9177666'>Download paper here</a>
 
-Categorical fuzzy entropy C-means clustering method.
-
-Recommended citation: A. J. Djiberou Mahamadou, V. Antoine, E. M. Nguifo and S. Moreno, "Categorical fuzzy entropy c-means," <i>2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</i>, Glasgow, United Kingdom, 2020, pp. 1-6.
+Recommended citation:
+> A. J. Djiberou Mahamadou, V. Antoine, E. M. Nguifo and S. Moreno, "Categorical fuzzy entropy c-means," <i>2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</i>, Glasgow, United Kingdom, 2020, pp. 1-6.

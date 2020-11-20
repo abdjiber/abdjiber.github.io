@@ -8,6 +8,7 @@ venue: 'FUZZ-IEEE'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8858972'
 citation: 'A. J. Djiberou Mahamadou, V. Antoine, G. J. Christie and S. Moreno, &quot;Evidential clustering for categorical data,&quot; <i>2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</i>, New Orleans, LA, USA, 2019, pp. 1-6.'
 ---
+Categorical version the Evidential C-means (ECM) clustering method.
 
 ## Abstract
 
@@ -15,6 +16,5 @@ Evidential clustering methods assign objects to clusters with a degree of belief
 
 <a href='https://ieeexplore.ieee.org/abstract/document/8858972'>Download paper here</a>
 
-Categorical version the Evidential C-means (ECM) clustering method.
-
-Recommended citation: A. J. Djiberou Mahamadou, V. Antoine, G. J. Christie and S. Moreno, "Evidential clustering for categorical data," <i>2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</i>, New Orleans, LA, USA, 2019, pp. 1-6.
+Recommended citation:
+> A. J. Djiberou Mahamadou, V. Antoine, G. J. Christie and S. Moreno, "Evidential clustering for categorical data," <i>2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</i>, New Orleans, LA, USA, 2019, pp. 1-6.
