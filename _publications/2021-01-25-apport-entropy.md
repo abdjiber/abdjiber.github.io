@@ -8,6 +8,7 @@ venue: 'EGC (Submitted)'
 paperurl: 'https://egc2021.sciencesconf.org/'
 citation: 'Paper submitted'
 ---
+
 French version of the paper Categorical fuzzy c-means
 
 ## Abstract
