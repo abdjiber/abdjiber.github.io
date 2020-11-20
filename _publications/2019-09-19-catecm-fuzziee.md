@@ -1,7 +1,7 @@
 ---
 title: "Evidential clustering for categorical data"
 collection: publications
-permalink: /publication/2019-09-19-catecm-fuzziee
+permalink: /publications/2019-09-19-catecm-fuzziee
 excerpt: 'Categorical version the Evidential C-means (ECM) clustering method.'
 date: 2019-09-19
 venue: 'FUZZ-IEEE'

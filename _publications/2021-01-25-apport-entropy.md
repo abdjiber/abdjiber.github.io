@@ -1,7 +1,7 @@
 ---
 title: "Apport de l'entropie pour les c-moyennes floues sur des données catégorielles"
 collection: publications
-permalink: /publication/2021-01-25-apport-entropy
+permalink: /publications/2021-01-25-apport-entropy
 excerpt: 'French version of the paper Categorical fuzzy c-means'
 date: 2021-01-25
 venue: 'EGC (Submitted)'

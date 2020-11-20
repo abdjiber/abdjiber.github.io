@@ -1,7 +1,7 @@
 ---
 title: "Categorical fuzzy entropy C-means"
 collection: publications
-permalink: /publication/2020-08-24-cfe-fuzzieee
+permalink: /publications/2020-08-24-cfe-fuzzieee
 excerpt: 'Categorical fuzzy entropy C-means clustering method.'
 date: 2020-08-24
 venue: 'FUZZ-IEEE'
