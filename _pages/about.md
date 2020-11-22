@@ -13,9 +13,9 @@ About
 Hi! I am DJIBEROU MAHAMADOU Abdoul Jalil, I am a Ph.D student (last year) in Computer Science and Machine Learning.
 I love coding, using Machine Learning to tackle real-world challenges and learning new skills. In 2018 I doubly graduated in mathematics and modeling engineering and master of science in computer science. I was awarded in 2019 the Excellence Prize by the Réseau des Etudiants Nigériens en France.
 
-After my Ph.D I would like to work as a Machine Learning Engineer to solve real world problems. An ideal position for me will be where:
-- I can develop or improve products particularly AI's one that can have a big impact on users
-- I can apply my mathematics, statistics and computer science skills
+After my Ph.D I would like to work as a Machine Learning [Research] Engineer to solve real world problems. An ideal position for me will be where:
+- I can develop or improve products particularly AI's one
+- I can apply do mathematics, statistics and computer science
 - I can continuously learn and share my knowledge
 - I can optionally do research
 

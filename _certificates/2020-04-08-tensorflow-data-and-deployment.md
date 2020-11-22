@@ -1,7 +1,7 @@
 ---
 title: "TensorFlow: Data and Deployment"
 permalink: /certificates/tensorflow-data-and-deployment
-excerpt: "specialization TensorFlow: Data and Deployment by deeplearning.ai."
+excerpt: "Specialization TensorFlow: Data and Deployment by deeplearning.ai."
 data: 2020-04-08
 ---
 
