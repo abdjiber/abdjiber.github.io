@@ -40,14 +40,9 @@ Development of clustering algorithms for mixed data (numerical and categorical) 
 *Grade*: 15.5 / 20.<br/>
 
 ## <a name="training"> CERTIFICATES </a>
-* **2020-04** Specialization TensorFlow: Data and Deployment by **deeplearning.ai**<br/>
-Coursera, 4-courses specialization. Credential ID: [KMD3DKZH7WVU](https://www.coursera.org/account/accomplishments/specialization/certificate/KMD3DKZH7WVU).<br/>
-
-* **2019-11** Specialization Deep Learning by **deeplearning.ai**<br/>
-Coursera, 5-courses specialization. Credential ID: [6V8WSCP33YM2](https://www.coursera.org/account/accomplishments/specialization/6V8WSCP33YM2).<br/>
-
-* **2019-09** Specialization Advance Data Science with IBM by **IBM**<br/>
-Coursera, 4-courses specialization. Credential ID: [6HHEAT8V4K4V](https://www.coursera.org/account/accomplishments/specialization/6HHEAT8V4K4V).<br/>
+<ul>{% for post in site.certificates reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 * **2019-04** Introduction to General Data Protection Regulation by **the French National Commission on Informatics and Liberty**<br/>
 
