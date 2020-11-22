@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/2020-10-23-apport-entropy
 excerpt: 'French version of the paper Categorical fuzzy c-means'
 date: 2020-10-23
-venue: 'EGC (Submitted)'
+venue: 'Accepted for publication at the EGC conference'
 paperurl: 'https://egc2021.sciencesconf.org/'
-citation: 'Paper submitted'
+citation: ''
 ---
 
 French version of the paper Categorical fuzzy c-means
