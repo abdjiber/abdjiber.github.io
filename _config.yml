@@ -75,8 +75,7 @@ social:
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-C7ZTWC0XPR
-
+    tracking_id          : 253667088
 
 # Site Author
 author:
@@ -190,6 +189,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  certificates:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -250,6 +253,14 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+# _certificates
+  - scope:
+      path: ""
+      type: certificates
     values:
       layout: single
       author_profile: true
