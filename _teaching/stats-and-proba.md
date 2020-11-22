@@ -9,6 +9,6 @@ location: "Aubière, France"
 ---
 
 I was in charge of the pratical work of the course probabilty and statistics over **36 hours**. In this course we covered:
-* An introduction to **matplotib** a Python plotting package.
+* An introduction to matplotib, a Python plotting package.
 * Implementation from scratch a linear regression model.
 * Random variable simulation.
