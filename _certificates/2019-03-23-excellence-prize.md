@@ -16,3 +16,9 @@ Here a copy of my certificate:
 ![award-renif](/images/renif_prix_excellence.jpeg)
 
 "THE RESEAU DES ETUDIANTS NIGERIENS, RENIF - GRANTS THIS CERTIFICATE TO THE STUDENT DJIBEROU MAHAMADOU ABDOUL JALIL, IN APPRECIATION AND RECOGNITION OF HIS EFFORTS AND HIS BRILLIANT RESULTS DURING HIS UNIVERSITY CURRICULUM."
+
+Below some pictures of the ceremony:
+
+![excellence-prize](/images/renif-img.jpg)
+
+![excellence-prize](/images/renif-img-1.jpg)
