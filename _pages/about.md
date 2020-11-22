@@ -15,7 +15,7 @@ I love coding, using Machine Learning to tackle real-world challenges and learni
 
 After my Ph.D I would like to work as a Machine Learning [Research] Engineer to solve real world problems. An ideal position for me will be where:
 - I can develop or improve products particularly AI's one
-- I can apply do mathematics, statistics and computer science
+- I can do mathematics, statistics and computer science
 - I can continuously learn and share my knowledge
 - I can optionally do research
 
