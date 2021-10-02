@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "DJIBEROU M. Abdoul Jalil"
 title_separator          : "-"
 name                     : &name "DJIBEROU M. Abdoul Jalil"
-description              : &description "Eng., M.Sc, Ph.D student in Computer Science and Machine Learning"
+description              : &description "Machine Learning Scientist @ Prevision.io"
 url                      : https://abdjiber.github.io #  <br/> Open to work from October 2021 the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdjiber/abdjiber.github.io"
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "DJIBEROU M. Abdoul Jalil"
   avatar           : "abjalil.png"
-  bio              : "Ph.D student in CS and ML<br/>Eng., M.Sc<br/>"
-  location         : "Clermont-Ferrand, France"
-  employer         : "Université Clermont Auvergne"
+  bio              : "Machine Learning Scientist"
+  location         : "Nantes, France"
+  employer         : "Prevision.io"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3v5pE6MAAAAJ&hl=fr"
-  email            : "abdjiber@isima.fr"
+  email            : "abdoul.djiberou@prevision.io"
   researchgate     : "https://www.researchgate.net/profile/Abdoul_Jalil_Djiberou_Mahamadou"
   uri              :
   bitbucket        :
