@@ -113,6 +113,6 @@ Tensorflow, Keras, Scikit-Learn, Statsmodels Pandas, Numpy, Flask
     France in 2018 based on academic success.
 
 ## INTERESTS
-Entrepreneurship, Coding, Data Science Competitions.**
+Entrepreneurship, Coding, Data Science Competitions.
 
 
