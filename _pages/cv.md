@@ -22,4 +22,4 @@ redirect_from:
 [Teaching](#teaching)
 -->
 
-CV page under construction! The downloadable format is available [here](/files/cv-djiberou-EN.pdf).
+CV page under construction! The downloadable format is available [here](/files/cv-djiberou.pdf).
