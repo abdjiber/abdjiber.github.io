@@ -7,9 +7,8 @@ author_profile: true
 
 Research
 ------
-Real-world data usually contain mixed data types as numerical, categorical, sequence, etc... To extract valuable information from these data one can use for instance machine learning methods. However, in the litterature there exists mostly methods for handling one data type. Therefore one should convert the other data types, for instance converting all non-numeric data to numeric. This convertion can lead to loss of information.
-
-In my thesis I am working on the development of clustering methods that can efficiently handle numerical and categorical data at the same time. In particular, we are interested in developing these methods in the fuzzy and belief functions frameworks that can respectively express the fuzziness and incertitude of assigning objects to the clusters.
+- Prevision.io: I am working on the European project AIDOaRT (AI-augmented automation for efficient DevOps, a model-based framework for continuous development At RunTime in cyber-physical systems). Among others, we will develop at Previon.io explainability models to explain the ML/AI models that will be developed by other project partners. In parallel with this research, I conduct internal research to improve the ML/AI models used by our Paas. In addition, I propose and implement new ideas for applications development. I have 1/5 day for the latter mission.
+- Thesis: During my Ph.D. thesis on worked on the development of new clustering algorithms for categorical data. My work was motivated by real-world applications of the new methods on health data which are mostly categorical. We first proposed the categorical evidential c-means, a categorical extension of the evidential c-means. This method uses the Dempster-Shafer theory of evidence to handle uncertainty in data. Second, we proposed the categorical fuzzy entropy c-means which is an extension of the fuzzy k-modes that uses the fuzzy sets theory to model cluster prototypes. The new methods are published in peer-review international conferences.
 
 Peer-reviewed publications
 ======
