@@ -1,5 +1,5 @@
 ---
-title: "Apport de l'entropie pour les c-moyennes floues sur des données catégorielles"
+title: "Apport de l\'entropie pour les c-moyennes floues sur des données catégorielles"
 collection: publications
 permalink: /publications/2020-10-23-apport-entropy
 excerpt: 'French version of the paper Categorical fuzzy entropy c-means'
@@ -8,7 +8,7 @@ venue: 'EGC 2021'
 paperurl: 'https://editions-rnti.fr/?inprocid=1002697'
 citation: 'Abdoul Jalil Djiberou Mahamadou, Violaine Antoine, Engelbert Mephu Nguifo, & Sylvain Moreno (2021). Apport de l'entropie pour les c-moyennes floues sur des données catégorielles. Revue des Nouvelles Technologies de l'Information, Extraction et Gestion des Connaissances, RNTI-E-37, 519-520.'
 ---
-French version of the paper Categorical fuzzy c-means
+French version of the paper Categorical fuzzy c-means.
 
 ## Abstract
 
