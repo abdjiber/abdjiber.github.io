@@ -1,6 +1,6 @@
 ---
 title: "My path from Niger to my Ph.D. in France"
-date: 2021-10-29
+date: 2021-09-29
 permalink: /posts/2021/09/path-to-my-phd-in-france
 tags:
   - curriculum
