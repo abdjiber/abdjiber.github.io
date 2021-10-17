@@ -7,6 +7,7 @@ tags:
   - passion
   - financial difficulties
 ---
+
 I'm pleased to announce that on September 17th, I defended my Ph.D. thesis in computer science and machine learning and became a doctor of university of Clermont Auvergne. This is my history!
 
 I'm 27 years old, from Niger, the firstborn of my family and I have five sisters. My mom got married at 18 and left school. She was about to attend high school. My dad joined the army in the 80s. He also didn't have to chance to go to university. The earnings of my parents since I was born to now have been less than 800 EUR/months.
