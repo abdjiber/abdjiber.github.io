@@ -47,3 +47,16 @@ Overall, my Ph.D. thesis led to 4 [publications](https://www.researchgate.net/pr
 Master's thesis, Université Clermont Auvergne, France (Apr - Aug 2018)
 ------
 Before my Ph.D. thesis, I did a research master's internship at my former lab. My work held on physical activities recommendation using clustering and the development of a new clustering algorithm under the Dempster-Shafer theory. For the clustering method, I worked on the theoretical part of **CatECM** which includes, defining and solving the optimization problem of the method.
+
+Peer-review (2019 - Now)
+------
+I have been volunturing to review journal and conference papers. So far, I reviewed papers from:
+- BDA: International Hybrid Conference on Big Data Analytics
+- DSAA: IEEE International Conference on Data Science and Advanced Analytics
+- ITAT: Conference on Information Technologies - Applications and Theory
+- Complex Networks: International Conference on Complex Networks and their Applications 
+- JRI: Journées de la Recherche en Informatique
+
+Grants and Scholarships
+------
+My research has been supported by competitive grants and scholarships applications. For my Ph.D. thesis, I received three years funding of a total amount of 105 000 EUR from the French National Research Agency. For the postdoctoral fellowship at the Simon Fraser University, I received two years funding of CAD 120 000 from Mitacs.
