@@ -85,7 +85,7 @@ author:
   location         : "Vancouver, Canada"
   employer         : "Simon Fraser University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=3v5pE6MAAAAJ&hl=fr"
+  googlescholar    : # "https://scholar.google.com/citations?user=3v5pE6MAAAAJ&hl=fr"
   email            : "abdoul_jalil_djiberou_mahamadou@sfu.ca"
   researchgate     : "https://www.researchgate.net/profile/Abdoul_Jalil_Djiberou_Mahamadou"
   uri              :
