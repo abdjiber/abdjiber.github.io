@@ -7,46 +7,45 @@ author_profile: true
 
 Postdoctoral Fellow, Simon Fraser University, Canada (Aug 2022 - Now)
 ------
-Research has shown that age-related cognitive decline (or normal cognitive decline) is not a uniform process from one individual to another. While some individuals experience low cognitive decline others can experience severe decline which can lead to neurodegenerative diseases such as dementia. To date, there is no cure for dementia. Fortunately, studies in the literature reported evidence for a mechanism to maintain good cognitive health and prevent dementia. My main project tries to understand which modifiable cognitive decline risk factors such as lifestyle activities can contribute to making the older adult population healthier at the individual and the population level.
+According to research, age-related cognitive decline (or normal cognitive decline) is not a consistent process from person to person. Some people have normal cognitive decline, whereas others have substantial cognitive decline which can progress to neurodegenerative disorders like dementia. There is currently no cure for dementia. Fortunately, there is evidence in the literature for factors to preserve excellent cognitive health in later life. My major goal is attempting to determine whether modifiable cognitive decline risk factors, such as lifestyle activities, can help to make the older adult population healthy on both an individual and population level.
 
-In parallel with my main project, I'm involved in several projects conducted in my laboratory. The projects include:
-- Understanding the relationship between gut-microbiota and the brain also referred to as the gut-microbiota brain axis.
-- Understanding the relationship between occupation and brain changes also referred to as occupational brain plasticity.
-- Understanding which lifestyle activities contribute to better recovery after a traumatic brain injury.
+In addition to my major research, I'm active at other projects in my laboratory. Among the projects are:
+- Determining the link between the gut microbiota and the brain, commonly known as the gut-microbiota brain axis.
+- Determining the link between profession and brain alterations, often known as occupational brain plasticity.
+- Determining which lifestyle activities aid in the rehabilitation from a traumatic brain injury.
 
-In addition to the previous projects, I'm involved in the co-supervision of masters and Ph.D. students from my laboratory.
-
+In addition to the aforementioned projects, I co-supervise master's and Ph.D. students from my laboratory.
 Postdoctoral Fellow, Université Clermont Auvergne, France (May - July 2022)
 ------
-I started a postdoctoral fellow position at my former university when my position at Prevision.io got interrupted due to financial difficulties of the company (the company fired more than half of its employees - 20 due to nonsuccess in fundraising). At that period, I had my current postdoctoral fellow position but needed time for administrative procedures to move to Canada. I then started a postdoc in my former lab where I worked on developing a new Machine Learning model for anomaly and concept drifts (i.e. statistical changes of data over time) detection in data streams. This work was in collaboration with an industry partner (Pfeiffer Vaccum) who was interested in deploying our model into their products. 
+When my work at Prevision.io was suspended owing to the company's financial troubles, I began a postdoctoral fellow position at my previous institution (the company fired more than half of its employees - 20 due to nonsuccess in fundraising). I held my present postdoctoral fellow employment at the time, but I needed time for administrative processes to transfer to Canada. I subsequently began a postdoctoral position in my old lab, where I worked on designing a novel Machine Learning model for detecting anomalies and concept drifts (i.e. statistical changes in data over time) in data streams. This work was done in partnership with an industry partner (Pfeiffer Vaccum) who wanted to incorporate our approach into their products.
 
-We proposed **DragStream**, a new anomaly and concept drift detector in data streams. Our paper is accepted at the incremental learning workshop of the international conference on data mining 2022 (IncLearn ICDM, ranking A*) which will take place from November 28th to December 1srt 2022 in Florida.
+**DragStream** is a novel anomaly and idea drift detector in data streams that we suggested. Our article has been approved for presentation at the incremental learning workshop of the international conference on data mining 2022 (IncLearn ICDM, ranking A*), which was held in Florida from November 28th to December 1st, 2022.
 
-In addition to this work, I co-supervised two graduate research projects on Explainable Artificial Intelligence (XAI) and Dimensionality Reduction in data streams.
+I also co-supervised two graduate research projects on Explainable AI (XAI) and Dimensionality Reduction in Data Streams.
 
 Prevision.io, France (Oct - Feb 2022)
 ------
-I got an offer from Prevision.io during the first year of my Ph.D. (2018 - 2019). Prevision.io reached out to me after beating one of their employees who used Prevision.io's automated machine learning (AutoML) product to lead a data science competition (read more [here](https://abdjiber.github.io/posts/2019/07/data-science-follow-up)). I wanted to finish my Ph.D. and asked Prevision.io if they could keep the position for me until I graduate and they accepted. Unfortunately, due to nonsuccess in funding raising during the Covid-19 pandemic, the company fired more than half of its employees including me.
+During the first year of my Ph.D.(2018 - 2019), I received an offer from Prevision.io. Prevision.io contacted me after I defeated one of their workers using Prevision.io's automated machine learning (AutoML) software in a data science competition (read more [here](https://abdjiber.github.io/posts/2019/07/data-science-follow-up)). I wanted to finish my Ph.D., so I requested Prevision.io to keep the position open for me until I graduated, and they agreed. Unfortunately, because to a lack of success in acquiring funds during the Covid-19 epidemic, the firm laid off more than half of its staff, including me.
 
-At Prevision.io, I mainly worked on the European project [AIDOaRT](https://www.aidoart.eu/) (AI-augmented automation for efficient DevOps, a model-based framework for continuous development At RunTime in cyber-physical systems). The three-year project (2021 - 2024) involved 32 organizations including academic and industrial partners. At Prevision.io, With a colleague (who got fired too), we were in charge of developing the explainability and accountability services of AIDOaRT. We started reviewing the literature to determine existing XAI models that are suitable for data generated from different cyber-physical systems and had a plan of developing an API that can be used to explain any ML model from the framework. At the consortium level, I contributed to a systematic review of the literature of studies that used at least two of the following dimensions of the framework: Model-based engineering, DevOps, and AI.
+I mostly worked on the European project [AIDOaRT](https://www.aidoart.eu/) at Prevision.io. (AI-augmented automation for effective DevOps, a model-based framework for continuous development at runtime in cyber-physical systems.) The initiative engaged 32 organizations, including academic and industry partners, during a three-year period (2021-2024). We were in responsible of building AIDOaRT's explainability and accountability services at Prevision.io, along with a coworker (who was also sacked). We began studying the literature to identify current XAI models that are appropriate for data provided by various cyber-physical systems, with the goal of establishing an API that can be used to explain any ML model from the framework. In addition to this work, I contributed to a comprehensive evaluation of the literature of studies that utilised at least two of the following aspects: Model-based engineering, DevOps, and AI.
 
-I was also in charge of writing technical articles for data science professionals to explain how some of Prevision.io's products work. I wrote 7 articles that were published on Prevision.io's blog (the former website is down).
+In addition, I was in charge of producing technical articles for data science specialists to explain how certain of Prevision.io's products functioned. I contributed seven articles to the Prevision.io blog (the former website is down).
 
-Prevision.io allowed me to develop and deploy ML applications from my ideas. I developed a Youtube ads detector using advanced Deep Learning techniques and deployed it on Prevision.io.
+Prevision.io helped me to build and market machine learning apps based on my ideas. I built a YouTube ad detector using powerful Deep Learning algorithms and released it on Prevision.io.
 
 PhD thesis, Université Clermont Auvergne, France (Oct - Feb 2022)
 ------
-My Ph.D. thesis was mainly focused on the development of new ML models to cluster qualitative data. I developed two methods: **CFE** (Categorical Fuzzy Entropy c-means) under the [fuzzy sets](https://en.wikipedia.org/wiki/Fuzzy_set) theory and **CatECM** (Categorical Evidential C-Means) under the [Dempster-Shafer](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory) (belief functions) theory. Both methods are extensions of the k-means algorithms that handle uncertainty.
+My Ph.D. thesis was primarily concerned with the creation of novel ML models for clustering qualitative data. I created two methods: **CFE** (Categorical Fuzzy Entropy c-means) based on the [fuzzy sets](https://en.wikipedia.org/wiki/Fuzzy set) theory and **CatECM** (Categorical Evidential C-Means) based on the [Dempster-Shafer](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer theory (also known as the belief functions theory). Both approaches are k-means extensions that deal with ambiguity.
 
-I had two collaborations during my thesis. One with [Institut Analgesia](https://www.institut-analgesia.org/?lang=en) a french institute specializing in chronic pain. The latter collaboration aimed to use machine learning techniques to determine profiles of chronic pain patients for individualized medicine. During this collaboration, I had the opportunity to work with physicians and pharmacists with whom we published a [paper](https://formative.jmir.org/2022/3/e30052).
+During my thesis, I worked on two projects with others. One with [Institut Analgesia], a French institute specialized in chronic pain (https://www.institut-analgesia.org/?lang=en). The latter cooperation attempted to employ machine learning techniques to create profiles of chronic pain sufferers in order to provide tailored treatment. I had the opportunity to collaborate with physicians and pharmacists throughout this partnership, and we published a [paper](https://formative.jmir.org/2022/3/e30052).
 
-My second collaboration was with the [Digital Health Research Laboratory](https://computationalgeronneuroscience.iat.sfu.ca/) (my current lab). I worked on clustering of an older adult population from longitudinal data to determine how lifestyle activities influence each cluster.
+The [Digital Health Research Laboratory](https://computationalgeronneuroscience.iat.sfu.ca/) was my second cooperation (my current lab). I worked on longitudinal data clustering of an older adult population to investigate how lifestyle activities impact each cluster.
 
-Overall, my Ph.D. thesis led to 4 [publications](https://www.researchgate.net/profile/Abdoul-Jalil-Djiberou-Mahamadou): articles from ResearchGate and the following [conference paper](https://editions-rnti.fr/?inprocid=1002697).
+Overall, my Ph.D. thesis resulted in four [publications](https://www.researchgate.net/profile/Abdoul-Jalil-Djiberou-Mahamadou): articles from ResearchGate and the following [conference paper](https://editions-rnti.fr/?inprocid=1002697).
 
 Master's thesis, Université Clermont Auvergne, France (Apr - Aug 2018)
 ------
-Before my Ph.D. thesis, I did a research master's internship at my former lab. My work held on physical activities recommendation using clustering and the development of a new clustering algorithm under the Dempster-Shafer theory. For the clustering method, I worked on the theoretical part of **CatECM** which includes, defining and solving the optimization problem of the method.
+I completed a research master's internship at my old lab prior to completing my Ph.D. thesis. My research focused on physical activity advice utilizing clustering and the creation of a novel clustering algorithm based on the Dempster-Shafer theory. I worked on the theoretical aspect of **CatECM** for the clustering approach, which included defining and addressing the method's optimization issue.
 
 Peer-review (2019 - Now)
 ------
@@ -59,4 +58,4 @@ I have been volunturing to review journal and conference papers. So far, I revie
 
 Grants and Scholarships
 ------
-My research has been supported by competitive grants and scholarships applications. For my Ph.D. thesis, I received three years funding of a total amount of 105 000 EUR from the French National Research Agency. For the postdoctoral fellowship at the Simon Fraser University, I received two years funding of CAD 120 000 from Mitacs.
+Competitive grant and scholarship applications have aided my studies. The French National Research Agency provided me with three years of support for my Ph.D. thesis, totaling 105 000 EUR. Mitacs provided me with CAD 120 000 for a two-year postdoctoral fellowship at Simon Fraser University.
