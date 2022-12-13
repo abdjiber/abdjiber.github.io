@@ -15,6 +15,7 @@ In addition to my major research, I'm active at other projects in my laboratory.
 - Determining which lifestyle activities aid in the rehabilitation from a traumatic brain injury.
 
 In addition to the aforementioned projects, I co-supervise master's and Ph.D. students from my laboratory.
+
 Postdoctoral Fellow, Université Clermont Auvergne, France (May - July 2022)
 ------
 When my work at Prevision.io was suspended owing to the company's financial troubles, I began a postdoctoral fellow position at my previous institution (the company fired more than half of its employees - 20 due to nonsuccess in fundraising). I held my present postdoctoral fellow employment at the time, but I needed time for administrative processes to transfer to Canada. I subsequently began a postdoctoral position in my old lab, where I worked on designing a novel Machine Learning model for detecting anomalies and concept drifts (i.e. statistical changes in data over time) in data streams. This work was done in partnership with an industry partner (Pfeiffer Vaccum) who wanted to incorporate our approach into their products.
@@ -35,7 +36,7 @@ Prevision.io helped me to build and market machine learning apps based on my ide
 
 PhD thesis, Université Clermont Auvergne, France (Oct - Feb 2022)
 ------
-My Ph.D. thesis was primarily concerned with the creation of novel ML models for clustering qualitative data. I created two methods: **CFE** (Categorical Fuzzy Entropy c-means) based on the [fuzzy sets](https://en.wikipedia.org/wiki/Fuzzy set) theory and **CatECM** (Categorical Evidential C-Means) based on the [Dempster-Shafer](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer theory (also known as the belief functions theory). Both approaches are k-means extensions that deal with ambiguity.
+My Ph.D. thesis was primarily concerned with the creation of novel ML models for clustering qualitative data. I created two methods: **CFE** (Categorical Fuzzy Entropy c-means) based on the [fuzzy sets](https://en.wikipedia.org/wiki/Fuzzy set) theory and **CatECM** (Categorical Evidential C-Means) based on the [Dempster-Shafer](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer theory) (also known as the belief functions theory). Both approaches are k-means extensions that deal with ambiguity.
 
 During my thesis, I worked on two projects with others. One with [Institut Analgesia], a French institute specialized in chronic pain (https://www.institut-analgesia.org/?lang=en). The latter cooperation attempted to employ machine learning techniques to create profiles of chronic pain sufferers in order to provide tailored treatment. I had the opportunity to collaborate with physicians and pharmacists throughout this partnership, and we published a [paper](https://formative.jmir.org/2022/3/e30052).
 
