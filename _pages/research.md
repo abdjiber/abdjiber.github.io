@@ -40,3 +40,14 @@ I have been volunturing to review journal and conference papers. So far, I revie
 Grants and Scholarships
 ------
 Competitive grant and scholarship applications have aided my studies. The French National Research Agency provided me with three years of support for my Ph.D. thesis, totaling 105 000 EUR. Mitacs provided me with CAD 120 000 for a two-year postdoctoral fellowship at Simon Fraser University.
+
+Publications
+---
+- Anne Marthe Sophie Ngo, Djiberou Mahamadou AJ, Michael F. Mbouopda, Engelbert MN. DragStream: An anomaly and concept drift detector in data streams. In 
+2022 International Conference on Data Mining (ICDM).
+- Emma A. Rodrigues, Djiberou Mahamadou AJ, Violaine Antoine, Sylvain Moreno. Profiling the Healthy Aging Population: A Machine Learning Approach. In 2022 Cognitive Neuroscience Society Conference.
+- Djiberou Mahamadou AJ, Antoine V, Nguifo EM, Moreno S. Apport de l'entropie pour les c-moyennes floues sur des données catégorielles. In Revue des Nouvelles Technologies de l'Information, 2021.
+- Djiberou Mahamadou AJ, Antoine V, Nguifo EM, Moreno S. Categorical fuzzy entropy c-means. In 2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE).
+- Djiberou Mahamadou AJ, Antoine V, Christie GJ, Moreno S. Evidential clustering for categorical data. In: 2019 IEEE International Conference on Fuzzy
+Systems (FUZZ-IEEE).
+- Nicolas Kerckhove et al. eDOL mHealth App and Web Platform for Self-monitoring and Medical Follow-up of Patients With Chronic Pain: Observational Feasibility Study. In Journal of Medical Internet Research, 2021.
