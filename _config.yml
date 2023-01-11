@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DJIBEROU M. Abdoul Jalil"
+title                    : "DM. Abdoul Jalil"
 title_separator          : "-"
-name                     : &name "DJIBEROU M. Abdoul Jalil"
-description              : &description "Mitacs Postdoctoral Fellow"
+name                     : &name "DM. Abdoul Jalil"
+description              : &description "Mitacs Postdoctoral Fellow in AI and Neuroscience"
 url                      : https://abdjiber.github.io #  <br/> Open to work from October 2021 the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdjiber/abdjiber.github.io"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "DJIBEROU M. Abdoul Jalil"
+  name             : "DM. Abdoul Jalil"
   avatar           : "abjalil.png"
-  bio              : "Mitacs Postdoctoral Fellow"
+  bio              : "Mitacs Postdoctoral Fellow in AI and Neuroscience"
   location         : "Vancouver, Canada"
   employer         : "Simon Fraser University"
   pubmed           :
