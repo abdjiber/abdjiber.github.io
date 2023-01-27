@@ -7,7 +7,7 @@ author_profile: true
 
 Postdoctoral Fellow, Simon Fraser University, Canada (Aug 2022 - Now)
 ------
-My research is focused on studying the cognitive decline in older adults, specifically looking at modifiable factors such as lifestyle choices that may impact cognitive health and preserve cognitive abilities in later life. I'm particularly interested in researching the link between gut microbiome and the brain, the link between profession and brain changes, and identifying lifestyle activities that can aid in the rehabilitation from traumatic brain injury. In addition to previous projects my main work now (Jan 2023 - Present) holds on the development of a causal model for time series data with application to longitidunal survey and fMRI data. I'm also co-supervising graduate students in my laboratory.
+My research is focused on studying the cognitive decline in older adults, specifically looking at modifiable factors such as lifestyle choices that may impact cognitive health and preserve cognitive abilities in later life. I'm particularly interested in researching the link between gut microbiome and the brain, the link between profession and brain changes, and identifying lifestyle activities that can aid in the rehabilitation from traumatic brain injury. In addition to previous projects my main work now (Jan 2023 - Present) holds on the development of a causal model for time series data with applications to longitidunal surveys and Image data. I'm also co-supervising graduate students in my laboratory.
 
 Postdoctoral Fellow, Université Clermont Auvergne, France (May - July 2022)
 ------
