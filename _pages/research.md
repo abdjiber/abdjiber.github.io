@@ -43,6 +43,7 @@ Competitive grant and scholarship applications have aided my studies. The French
 
 Publications
 ---
+- Djiberou Mahamadou AJ*, Emma A. Rodrigues*, Vasily Vakorin, Sylvain Moreno. Lifestyle Factors and Cognitive Aging: A Personalized Approach. Accepted for publication at Organization for Human Brain Mapping 2023 Annual Meeting.
 - Anne Marthe Sophie Ngo, Djiberou Mahamadou AJ, Michael F. Mbouopda, Engelbert MN. DragStream: An anomaly and concept drift detector in data streams. In 
 2022 International Conference on Data Mining (ICDM).
 - Emma A. Rodrigues, Djiberou Mahamadou AJ, Violaine Antoine, Sylvain Moreno. Profiling the Healthy Aging Population: A Machine Learning Approach. In 2022 Cognitive Neuroscience Society Conference.
