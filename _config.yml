@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "DM. Abdoul Jalil"
 title_separator          : "-"
 name                     : &name "DM. Abdoul Jalil"
-description              : &description "Mitacs Postdoctoral Fellow in AI and Neuroscience"
+description              : &description "Stanford and GSK.ai fellow in AI and Biomedical Ethics"
 url                      : https://abdjiber.github.io #  <br/> Open to work from October 2021 the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdjiber/abdjiber.github.io"
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "DM. Abdoul Jalil"
   avatar           : "abjalil.png"
-  bio              : "Mitacs Postdoctoral Fellow in AI and Neuroscience"
-  location         : "Vancouver, Canada"
-  employer         : "Simon Fraser University"
+  bio              : "Stanford and GSK.ai fellow in AI and Biomedical Ethics"
+  location         : "Palo Alto, California"
+  employer         : "Stanford School of Medicine"
   pubmed           :
   googlescholar    : # "https://scholar.google.com/citations?user=3v5pE6MAAAAJ&hl=fr"
-  email            : "abdoul_jalil_djiberou_mahamadou@sfu.ca"
+  email            : "abdjiber@stanford.edu"
   researchgate     : "https://www.researchgate.net/profile/Abdoul_Jalil_Djiberou_Mahamadou"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "djiberou-m-abdoul-jalil-ph-d-5807b5105"
+  linkedin         : "abdoul-jalil-djiberou-mahamadou-5807b5105"
   orcid            :
   pinterest        :
   soundcloud       :
