@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DM. Abdoul Jalil"
+title                    : "Abdoul J. Mahamadou"
 title_separator          : "-"
-name                     : &name "DM. Abdoul Jalil"
-description              : &description "Stanford and GSK.ai fellow in AI and Biomedical Ethics"
+name                     : &name "Abdoul J. Mahamadou"
+description              : &description "Stanford and GSK.ai Postdocoral Fellow in AI and Biomedical Ethics"
 url                      : https://abdjiber.github.io #  <br/> Open to work from October 2021 the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdjiber/abdjiber.github.io"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "DM. Abdoul Jalil"
+  name             : "Abdoul J. Mahamadou"
   avatar           : "abjalil.png"
-  bio              : "Stanford and GSK.ai fellow in AI and Biomedical Ethics"
+  bio              : "Stanford and GSK.ai Postdoctoral Fellow in AI and Biomedical Ethics"
   location         : "Palo Alto, California"
   employer         : "Stanford School of Medicine"
   pubmed           :
-  googlescholar    : # "https://scholar.google.com/citations?user=3v5pE6MAAAAJ&hl=fr"
+  googlescholar    : "https://scholar.google.com/citations?user=3v5pE6MAAAAJ&hl=fr"
   email            : "abdjiber@stanford.edu"
   researchgate     : "https://www.researchgate.net/profile/Abdoul_Jalil_Djiberou_Mahamadou"
   uri              :
@@ -102,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "abdoul-jalil-djiberou-mahamadou-5807b5105"
-  orcid            :
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3295-1911"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "abdjibero"
   vine             :
   weibo            :
   xing             :

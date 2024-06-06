@@ -8,16 +8,21 @@ redirect_from:
  - /about.html
 ---
 
-About
+About 
 ------
-Hello! Thank you for visiting my webpage. My name is Abdoul and I am currently a Stanford and GSK.ai fellow in AI and Biomedical Ethics. I'm a former fellow in AI and Cognitive Neuroscience at Simon Fraser University in Canada. I hold a Ph.D. and an MSc in Computer Science, an Engineer's degree (MEng) in Applied Mathematics; and a BSc in Applied Mathematics respectively from Université Clermont Auvergne in France and Université Sidi Mohamed Ben Abdellah in Morocco. I specialize in creating innovative Machine Learning models and utilizing advanced methods to extract insights from health data. My primary areas of expertise are in machine learning algorithm development, uncertainty modeling, explainable AI, and time series/data stream analysis.
+I'm Abdoul Jalil Djiberou Mahamadou! I'm a Stanford and GSK.ai postdoctoral fellow in AI and Biomedical Ethics. I'm investigating the ethical, legal, and social implications of healthcare AI. My research focuses on developing culturally sensitive ethical AI frameworks that align with community values, norms, and beliefs with a case study in Africa. On the technical lens, my work explores the co-design between AI experts and marginalized communities of technical bias and fairness solutions. My work also explores the potential of AI for health equity and global health. Prior to Stanford, I completed a postdoctoral fellowship in AI and cognitive aging at Simon Fraser University in Canada. During this fellowship, I used explainable AI to determine the association between lifestyle activities and the cognitive health of older adults to mitigate cognitive decline. Before Canada, I completed a short postdoctoral fellowship in France where I contributed to developing a new explainable and concept drift detection algorithm for stream data.  
 
-My Relationship with Mathematics and Computer Science
+I hold a PhD in Computer Science, an MSc in Computer Science (joint degree), an MEng in Applied Mathematics from Clermont Auvergne University in France, and a BSc in Applied Mathematics from the University of Fez in Morocco. I received prestigious grants, awards, and distinctions including the Mitacs Accelerate Postdoctoral Fellowship Grant and the top-performing Nigerien students in France.
+
+My [resume](/files/Resume-Abdoul.pdf) and [CV](/files/CV-Abdoul-June-2024.pdf). 
+
+News
 ------
-Ever since I was in junior high school in Niger, I have always had a passion for mathematics and found the subject particularly engaging. This passion led to me being awarded a bachelor's scholarship in 2012 to study mathematics in Morocco, based on my strong academic performance. It was during my coursework in Morocco that I discovered my interest in computer programming and became captivated by its potential. My goal was to become an applied mathematics engineer, where I could blend my interests in mathematics and computer technology. In 2018, I was able to achieve this goal, by earning honors degrees in both computer science and applied mathematical engineering. Through this education, I became interested in machine learning and sought to learn more about it. Eventually, I pursued a Ph.D. in computer science and machine learning, where I created new clustering techniques.
+- 6/5/2024: I attended the 5th-year celebration of the Stanford Human-centered AI Institute.
+- 5/22/2024: I submitted my paper "Data Ethics in the Era of Healthcare Artificial Intelligence in Africa: An Ubuntu Philosophy Perspective" to the American Journal of Bioethics.
+- 2/23/2024: I co-authored a panel proposal "Artificial intelligence for precision medicine: How close to ‘personalized’ can we really get?" accepted for the 6th [Ethical, Legal, and Social Implications of Genomic Research Annual Meeting](https://elsicon2024.eventscribe.net/).
+- 12/4/2023: I visited the GSK.ai Responsible AI team in London to present my work on algorithmic fairness. GSK.ai is an industry partner of my postdoctoral fellowship at Stanford.
+- 10/11/2023: I attended the 25th [American Society for Bioethics and Humanities Annual Meeting](https://asbh23.eventscribe.net/).
+- 7/22/2023: I attended the [Organization for Human Brain Mapping Annual Meeting](https://event.fourwaves.com/ohbm2023/pages) to present my AI and Cognitive Aging work.
+- 6/19/2023: I started my postdoctoral fellowship in AI and Biomedical Ethics at the Stanford Center for Biomedical Ethics.
 
-Read more about my path [here](https://abdjiber.github.io/posts/2021/09/path-to-my-phd-in-france) :)
-
-Objectives
--------
-Throughout my academic and professional journey, my goal has always been to find solutions to problems, and I strongly believe that mathematics and computer science are powerful tools that can help us better understand and tackle complex issues that have the potential to greatly benefit our society and improve our daily lives.
