@@ -16,7 +16,7 @@ I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](ht
 
 - Diversity and Inclusion: Exploring how diversity and inclusion are integrated and conceptualized in NIH-funded Projects in collaboration with Dr. Mildred Cho and Dr. Nicole Martinez-Martin.
 
-- Ethical Implications of Healthcare AI Tools: Examining the ethical considerations surrounding healthcare AI tools utilized at Stanford Healthcare, in collaboration with Dr. Michelle Mello and Dr. Danton Char.
+- Ethical Implications of Healthcare AI Tools: Examining the ethical considerations surrounding [healthcare AI](https://impact.stanford.edu/healthcare-ai) tools utilized at Stanford Healthcare, in collaboration with Dr. Michelle Mello and Dr. Danton Char.
 
 Before joining Stanford, I completed a postdoctoral fellowship in AI and cognitive aging at Simon Fraser University. I worked on cognitive decline interventions through lifestyle activities in older adults. I also undertook a short postdoctoral fellowship at Clermont Auvergne University, contributing to the development of an innovative explainable algorithm and a concept drift detection method for stream data.
 
