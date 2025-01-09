@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdoul J. Mahamadou"
+title                    : "Abdoul Jalil Djiberou Mahamadou"
 title_separator          : "-"
-name                     : &name "Abdoul J. Mahamadou"
-description              : &description "Stanford and GSK.ai Postdocoral Fellow in AI and Biomedical Ethics"
+name                     : &name "Abdoul Jalil Djiberou Mahamadou"
+description              : &description "Stanford-GSK.ai Postdocoral Researcher Fellow in Responsible AI"
 url                      : https://abdjiber.github.io #  <br/> Open to work from October 2021 the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdjiber/abdjiber.github.io"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdoul J. Mahamadou"
+  name             : "Abdoul Jalil Djiberou Mahamadou"
   avatar           : "abjalil.png"
-  bio              : "Stanford and GSK.ai Postdoctoral Fellow in AI and Biomedical Ethics"
+  bio              : "Stanford-GSK.ai Postdoctoral Researcher in Responsible AI"
   location         : "Palo Alto, California"
   employer         : "Stanford School of Medicine"
   pubmed           :
@@ -178,7 +178,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
