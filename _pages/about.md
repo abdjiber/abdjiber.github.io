@@ -12,7 +12,7 @@ About
 ------
 I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on four key areas:
 
-- **Bias and Fairness in AI**: Investigating vulnerable groups beyond protected classes and developing algorithmic individual fairness interventions.
+- **Bias and Fairness in AI**: Investigating vulnerable groups beyond protected classes (e.g., race, ethnicity) and developing individual fairness algorithmic interventions.
 
 - **Diversity and Inclusion**: Exploring how diversity and inclusion are integrated and conceptualized in NIH-funded projects in collaboration with Dr. Mildred Cho and Dr. Nicole Martinez-Martin.
 
