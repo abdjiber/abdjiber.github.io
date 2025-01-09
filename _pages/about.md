@@ -25,13 +25,9 @@ I hold a PhD in Computer Science, an MSc in Computer Science, and an MEng in App
 
 News
 ------
-- Incoming: I'll present my work at the NeurIPS Algorithmic Fairness Through the Lens of Metrics and Evaluation Workshop in December 2024.
-- 9/18 to 9/21/2024: I presented my work on algorithmic fairness at the 25th American Society for Bioethics and Humanities Annual Conference.
-- 6/5/2024: I attended the 5th-year celebration of the Stanford Human-centered AI Institute.
-- 5/22/2024: I submitted my paper "Data Ethics in the Era of Healthcare Artificial Intelligence in Africa: An Ubuntu Philosophy Perspective" to the American Journal of Bioethics.
-- 2/23/2024: I co-authored a panel proposal "Artificial intelligence for precision medicine: How close to ‘personalized’ can we really get?" accepted for the 6th [Ethical, Legal, and Social Implications of Genomic Research Annual Meeting](https://elsicon2024.eventscribe.net/).
-- 12/4/2023: I visited the GSK.ai Responsible AI team in London to present my work on algorithmic fairness. GSK.ai is an industry partner of my postdoctoral fellowship at Stanford.
-- 10/11/2023: I attended the 25th [American Society for Bioethics and Humanities Annual Meeting](https://asbh23.eventscribe.net/).
-- 7/22/2023: I attended the [Organization for Human Brain Mapping Annual Meeting](https://event.fourwaves.com/ohbm2023/pages) to present my AI and Cognitive Aging work.
-- 6/19/2023: I started my postdoctoral fellowship in AI and Biomedical Ethics at the Stanford Center for Biomedical Ethics.
+- NeurIPS 2024: I presented my work on [revisiting technical algorithmic fairness and participatory AI](https://arxiv.org/pdf/2410.17433) at the NeurIPS [Algorithmic Fairness Through the Lens of Metrics and Evaluation Workshop](https://www.afciworkshop.org/afme2024).  
+- ASBH 2024: I presented my work on algorithmic fairness at the 25th [American Society for Bioethics and Humanities](https://asbh.org/) Annual Conference.
+- ELSICon: I co-presented a panel on "Artificial intelligence for precision medicine: How close to ‘personalized’ can we really get?" at the 6th [Ethical, Legal, and Social Implications of Genomic Research Annual Meeting](https://elsicon2024.eventscribe.net/).
+- OHBM 2023: I presented my work on AI and Cognitive Aging at the [Organization for Human Brain Mapping Annual Meeting](https://event.fourwaves.com/ohbm2023/pages).
+- June 2023: I started my postdoctoral fellowship in AI and Biomedical Ethics at the Stanford Center for Biomedical Ethics.
 
