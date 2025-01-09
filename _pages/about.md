@@ -10,11 +10,17 @@ redirect_from:
 
 About 
 ------
-I'm a Stanford and GSK.ai postdoctoral fellow in AI and Biomedical Ethics. My work explores 1) how AI developers conceptualize and formalize bias and fairness into technical mitigation strategies; 2) how diversity and inclusion are conceptualized in NIH-funded projects (PIs: Dr. Nichol-Martinez Martin and Dr. Mildred Cho); and 3) the ethical implications of healthcare AI tools used at Stanford Healthcare (PIs: Dr. Michelle Mello and Dr. Danton Char). Before Stanford, I completed a postdoctoral fellowship in AI and cognitive aging at Simon Fraser University in Canada where I used AI to determine lifestyle activities that influence cognitive decline in older adults. I completed a short postdoctoral fellowship in France where I contributed to developing a new explainable and concept drift detection algorithm for stream data.  
+I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on three key areas:
 
-I hold a PhD in Computer Science, an MSc in Computer Science, an MEng in Applied Mathematics from Clermont Auvergne University in France (joint degree with MSc), and a BSc in Applied Mathematics from the University of Fez in Morocco. I received prestigious grants, awards, and distinctions including the Mitacs Accelerate Postdoctoral Fellowship Grant and the top-performing Nigerien students in France in 2019.
+- Bias and Fairness in AI: Investigating vulnerable groups beyond protected classes.
 
-My [resume](/files/Resume-Abdoul.pdf) and [CV](/files/CV-Abdoul-June-2024.pdf). 
+- Diversity and Inclusion: Exploring how diversity and inclusion are integrated and conceptualized in NIH-funded Projects in collaboration with Dr. Mildred Cho and Dr. Nicole Martinez-Martin.
+
+- Ethical Implications of Healthcare AI Tools: Examining the ethical considerations surrounding healthcare AI tools utilized at Stanford Healthcare, in collaboration with Dr. Michelle Mello and Dr. Danton Char.
+
+Before joining Stanford, I completed a postdoctoral fellowship in AI and cognitive aging at Simon Fraser University. I worked on cognitive decline interventions through lifestyle activities in older adults. I also undertook a short postdoctoral fellowship at Clermont Auvergne University, contributing to the development of an innovative explainable algorithm and a concept drift detection method for stream data.
+
+I hold a PhD in Computer Science, an MSc in Computer Science, and an MEng in Applied Mathematics from Clermont Auvergne University, as well as a BSc in Applied Mathematics from the University of Fez. My academic journey has been recognized with several prestigious grants, awards, and distinctions, including the Mitacs Accelerate Postdoctoral Fellowship Grant and recognition as one of the top-performing Nigerien students in France in 2019.
 
 News
 ------
