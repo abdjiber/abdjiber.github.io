@@ -10,13 +10,14 @@ redirect_from:
 
 About 
 ------
-I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on three key areas:
+I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on four key areas:
 
-- Bias and Fairness in AI: Investigating vulnerable groups beyond protected classes.
+- **Bias and Fairness in AI**: Investigating vulnerable groups beyond protected classes and developing algorithmic individual fairness interventions.
 
-- Diversity and Inclusion: Exploring how diversity and inclusion are integrated and conceptualized in NIH-funded Projects in collaboration with Dr. Mildred Cho and Dr. Nicole Martinez-Martin.
+- **Diversity and Inclusion**: Exploring how diversity and inclusion are integrated and conceptualized in NIH-funded projects in collaboration with Dr. Mildred Cho and Dr. Nicole Martinez-Martin.
 
-- Ethical Implications of Healthcare AI Tools: Examining the ethical considerations surrounding [healthcare AI](https://impact.stanford.edu/healthcare-ai) tools utilized at Stanford Healthcare, in collaboration with Dr. Michelle Mello and Dr. Danton Char.
+- **Ethical Implications of Healthcare AI Tools**: Examining the ethical considerations surrounding [healthcare AI](https://impact.stanford.edu/healthcare-ai) tools utilized at Stanford Healthcare, in collaboration with Dr. Michelle Mello and Dr. Danton Char.
+
 
 Before joining Stanford, I completed a postdoctoral fellowship in AI and cognitive aging at Simon Fraser University. I worked on cognitive decline interventions through lifestyle activities in older adults. I also undertook a short postdoctoral fellowship at Clermont Auvergne University, contributing to the development of an innovative explainable algorithm and a concept drift detection method for stream data.
 
