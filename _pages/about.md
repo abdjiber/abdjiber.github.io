@@ -31,3 +31,16 @@ News
 - OHBM 2023: I presented my work on AI and Cognitive Aging at the [Organization for Human Brain Mapping Annual Meeting](https://event.fourwaves.com/ohbm2023/pages).
 - June 2023: I started my postdoctoral fellowship in AI and Biomedical Ethics at the Stanford Center for Biomedical Ethics.
 
+Publications
+------
+1.	**Abdoul J. Mahamadou**, Artem A. Trotsyuk. (2024). Revisiting Technical Bias Mitigation Strategies. ArXiv:2410.17433.
+2.	**Abdoul J. Mahamadou**, Lea Goetz, Russ B. Altman. (2024). Individual Fairness Through Reweighting and Tuning. ArXiv:2405.01711.
+3.	**Abdoul J. Mahamadou**, Emma A. Rodrigues, Vasily Vakorin, Violaine Antoine, Sylvain Moreno. (2024). Interpretable Machine Learning for Precision Cognitive Aging. Cognitive Computation. Under Review.
+4.	**Abdoul J. Mahamadou**, Aloysius Ochasi, Russ B. Altman. (2024). Data Ethics in the Era of Healthcare Artificial Intelligence in Africa: An Ubuntu Philosophy Perspective. Preprint. ArXiv:2406.10121. 
+5.	**Abdoul J. Mahamadou**, Emma A. Rodrigues*, Vasily Vakorin, Sylvain Moreno. (2023). Lifestyle Factors and Cognitive Aging: A Personalized Approach. Organization for Human Brain Mapping Annual Meeting.
+6.	Anne Marthe Sophie Ngo, **Abdoul J. Mahamadou**, Michael F. Mbouopda, Engelbert MN. (2022). DragStream: An anomaly and concept drift detector in data streams. International Conference on Data Mining IncrLearn Workshop.
+7.	Emma A. Rodrigues, **Abdoul J. Mahamadou**, Violaine Antoine, Sylvain Moreno. (2022). Profiling the Healthy Aging Population: A Machine Learning Approach. Cognitive Neuroscience Society Annual Meeting.
+8.	Nicolas Kerckhove et al. (2021). eDOL mHealth App and Web Platform for Self-monitoring and Medical Follow-up of Patients With Chronic Pain: Observational Feasibility Study. Journal of Medical Internet Research.
+9.	**Abdoul J. Mahamadou**, Antoine Violaine, Nguifo Engelbert Mephu, Moreno Sylvain. (2021). Apport de l’entropie pour les c-moyennes floues sur des données catégorielles. Revue des Nouvelles Technologies de l’Information.
+10.	**Abdoul J. Mahamadou**, Antoine Violaine, Nguifo Engelbert, Moreno Sylvain. (2020). Categorical fuzzy entropy c-means. IEEE International Conference on Fuzzy Systems.
+11.	**Abdoul J. Mahamadou**, Antoine Violaine, Christie Gregory, Moreno Sylvain. (2019). Evidential clustering for categorical data. International Conference on Fuzzy Systems.
