@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-About ([Resume](/files/ & CV)
+About ([Resume](/files/Resume_Abdoul_Jan_2025,pdf) & [CV](/files/Resume_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025,pdf))
 ------
 I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on three key areas:
 
