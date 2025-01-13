@@ -33,23 +33,24 @@ News
 
 Teaching
 ------
-I enjoy teaching and have accumulated more 240 hours of teaching experience on diverse topics ranging from AI development to relational databases and research ethics. Moreover, my experience spans different universities, countries, and continents including Stanford University (California), the University of Clermont Auvergne (France), and the African Development University (Niger). 
+I enjoy teaching and have accumulated more than 240 hours of teaching experience on diverse topics ranging from AI development to relational databases and research ethics. Moreover, my experience spans different universities, countries, and continents including Stanford University (California), the University of Clermont Auvergne (France), and the African Development University (Niger). 
+
 **Stanford University, Stanford, California, USA - 34 hours**
-•	Foundation of Bioethics, Winter 2024
-•	Responsible Conduct of Research, Fall 2023, Autumn 2024
+- Foundation of Bioethics, Winter 2024
+- Responsible Conduct of Research, Fall 2023, Autumn 2024
 
 **African Development University, Niamey, Niger - 30 hours**
-•	Introduction to Machine Learning, Summer 2022
+- Introduction to Machine Learning, Summer 2022
 
 **University of Clermont Auvergne, Aubiere, Auvergne-Rhone Alpe, France - 184 hours**
-•	Relational Databases, Spring 2020
-•	Statistics and Probability, Fall 2020
-•	Information Systems, Fall 2020
-•	Databases and Web, Fall 2020
-•	Relational Databases, Spring 2019
-•	Algorithmic, Spring 2019
-•	Software Engineering, Spring 2019
-•	Shell Programming, Spring 2018
+- Relational Databases, Spring 2020
+- Statistics and Probability, Fall 2020
+- Information Systems, Fall 2020
+- Databases and Web, Fall 2020
+- Relational Databases, Spring 2019
+- Algorithmic, Spring 2019
+- Software Engineering, Spring 2019
+- Shell Programming, Spring 2018
 
 Publications
 ------
