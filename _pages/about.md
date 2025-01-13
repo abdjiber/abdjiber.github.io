@@ -10,7 +10,7 @@ redirect_from:
 
 About 
 ------
-Test -- I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on four key areas:
+DD Test -- I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on four key areas:
 
 - **Bias and Fairness in AI**: Investigating vulnerable groups beyond protected classes (e.g., race, ethnicity) for fairness interventions in AI systems and developing individual fairness algorithmic interventions.
 
