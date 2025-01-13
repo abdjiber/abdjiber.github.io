@@ -21,7 +21,7 @@ I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](ht
 
 Before joining Stanford, I completed a postdoctoral AI and cognitive aging fellowship at Simon Fraser University. I worked on cognitive decline interventions through lifestyle activities in older adults. I also undertook a short postdoctoral fellowship at Clermont Auvergne University, contributing to the development of an innovative explainable algorithm and a concept drift detection method for stream data.
 
-I hold a PhD in Computer Science, an MSc in Computer Science, an MEng in Applied Mathematics from Clermont Auvergne University, and a BSc in Applied Mathematics from the University of Fez. My academic journey has been recognized with several prestigious grants, awards, and distinctions, including the Mitacs Accelerate Postdoctoral Fellowship Grant and recognition as one of the top-performing Nigerien students in France in 2019.
+test I hold a PhD in Computer Science, an MSc in Computer Science, an MEng in Applied Mathematics from Clermont Auvergne University, and a BSc in Applied Mathematics from the University of Fez. My academic journey has been recognized with several prestigious grants, awards, and distinctions, including the Mitacs Accelerate Postdoctoral Fellowship Grant and recognition as one of the top-performing Nigerien students in France in 2019.
 
 News
 ------
