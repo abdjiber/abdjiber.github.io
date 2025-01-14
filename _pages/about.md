@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-About ([Resume](/files/Resume_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf) & [CV](/files/CV_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf))
+About 
 ------
 I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on three key areas:
 
@@ -19,9 +19,11 @@ I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](ht
 - **Ethical Implications of Healthcare AI Tools**: Examining the ethical considerations surrounding [healthcare AI](https://impact.stanford.edu/healthcare-ai) tools utilized at Stanford Healthcare, in collaboration with Dr. Michelle Mello and Dr. Danton Char.
 
 
-Before joining Stanford, I completed a postdoctoral AI and cognitive aging fellowship at Simon Fraser University. I worked on cognitive decline interventions through lifestyle activities in older adults. I also undertook a short postdoctoral fellowship at Clermont Auvergne University, contributing to the development of an innovative explainable algorithm and a concept drift detection method for stream data.
+Before joining Stanford, I completed a postdoctoral AI and cognitive aging fellowship at Simon Fraser University. I worked on cognitive decline interventions through lifestyle activities in older adults. I also undertook a short postdoctoral fellowship at Clermont Auvergne University, contributing to developing an innovative explainable algorithm and a concept drift detection method for stream data.
 
 test I hold a PhD in Computer Science, an MSc in Computer Science, an MEng in Applied Mathematics from Clermont Auvergne University, and a BSc in Applied Mathematics from the University of Fez. My academic journey has been recognized with several prestigious grants, awards, and distinctions, including the Mitacs Accelerate Postdoctoral Fellowship Grant and recognition as one of the top-performing Nigerien students in France in 2019.
+
+My [Resume](/files/Resume_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf) & [CV](/files/CV_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf)
 
 News
 ------
