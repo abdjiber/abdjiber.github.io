@@ -27,6 +27,7 @@ My [Resume](/files/Resume_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf) & [CV](/
 
 News
 ------
+- Accepted papers for publication (Feb 2025): I am excited to share that my paper [Revisiting Technical Algorithmic Fairness](https://arxiv.org/abs/2410.17433) and The Impact of Lifestyle Factors on Trajectories of Cognitive Subtypes in the Older Adult Population are accepted for publication respectively in the [Annual Review of Biomedical Data Science](https://www.annualreviews.org/content/journals/biodatasci) and [Nature Scientific Reports}(https://www.nature.com/srep/) journals.
 - NeurIPS 2024: I presented my work on [revisiting technical algorithmic fairness and participatory AI](https://arxiv.org/pdf/2410.17433) at the NeurIPS [Algorithmic Fairness Through the Lens of Metrics and Evaluation Workshop](https://www.afciworkshop.org/afme2024).  
 - ASBH 2024: I presented my work on algorithmic fairness at the 25th [American Society for Bioethics and Humanities](https://asbh.org/) Annual Conference.
 - ELSICon: I co-presented a panel on "Artificial intelligence for precision medicine: How close to ‘personalized’ can we really get?" at the 6th [Ethical, Legal, and Social Implications of Genomic Research Annual Meeting](https://elsicon2024.eventscribe.net/).
