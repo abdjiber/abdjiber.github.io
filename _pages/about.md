@@ -63,7 +63,7 @@ I enjoy teaching and have accumulated over 240 hours of teaching experience on d
 - Software Engineering, Spring 2019
 - Shell Programming, Spring 2018
 
-Publications
+Selected Publications and Presentations
 ------
 1.	**Abdoul J. Mahamadou**, Artem A. Trotsyuk. (2024). Revisiting Technical Bias Mitigation Strategies. ArXiv:2410.17433.
 2.	**Abdoul J. Mahamadou**, Lea Goetz, Russ B. Altman. (2024). Individual Fairness Through Reweighting and Tuning. ArXiv:2405.01711.
