@@ -23,7 +23,9 @@ Before joining Stanford, I completed a postdoctoral AI and cognitive aging fello
 
 I hold a PhD in Computer Science, an MSc in Computer Science, an MEng in Applied Mathematics from Clermont Auvergne University, and a BSc in Applied Mathematics from Sidi Mohamed Ben Abdellah University. My academic journey has been recognized with several prestigious grants, awards, and distinctions, including the Mitacs Accelerate Postdoctoral Fellowship Grant and recognition as one of the top-performing Nigerien students in France in 2019.
 
-My [Resume](/files/Resume_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf) & [CV](/files/CV_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf)
+I am excited about developing technologies that benefit everyone and contributing to socio-technical projects to achieve this endeavor. 
+
+For more about my academic journey please see my [Resume](/files/Resume_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf) and [CV](/files/CV_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf).
 
 News
 ------
