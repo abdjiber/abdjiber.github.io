@@ -27,16 +27,22 @@ My [Resume](/files/Resume_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf) & [CV](/
 
 News
 ------
-- Accepted papers for publication (Feb 2025): I am excited to share that my paper [Revisiting Technical Algorithmic Fairness](https://arxiv.org/abs/2410.17433) and The Impact of Lifestyle Factors on Trajectories of Cognitive Subtypes in the Older Adult Population are accepted for publication respectively in the [Annual Review of Biomedical Data Science](https://www.annualreviews.org/content/journals/biodatasci) and [Nature Scientific Reports}(https://www.nature.com/srep/) journals.
+- Accepted papers for publication (Feb 2025): I am excited to share that my paper [Revisiting Technical Algorithmic Fairness](https://arxiv.org/abs/2410.17433) and The Impact of Lifestyle Factors on Trajectories of Cognitive Subtypes in the Older Adult Population are accepted for publication respectively in the [Annual Review of Biomedical Data Science](https://www.annualreviews.org/content/journals/biodatasci) and [Nature Scientific Reports](https://www.nature.com/srep/) journals.
 - NeurIPS 2024: I presented my work on [revisiting technical algorithmic fairness and participatory AI](https://arxiv.org/pdf/2410.17433) at the NeurIPS [Algorithmic Fairness Through the Lens of Metrics and Evaluation Workshop](https://www.afciworkshop.org/afme2024).  
 - ASBH 2024: I presented my work on algorithmic fairness at the 25th [American Society for Bioethics and Humanities](https://asbh.org/) Annual Conference.
 - ELSICon: I co-presented a panel on "Artificial intelligence for precision medicine: How close to ‘personalized’ can we really get?" at the 6th [Ethical, Legal, and Social Implications of Genomic Research Annual Meeting](https://elsicon2024.eventscribe.net/).
 - OHBM 2023: I presented my work on AI and Cognitive Aging at the [Organization for Human Brain Mapping Annual Meeting](https://event.fourwaves.com/ohbm2023/pages).
 - June 2023: I started my postdoctoral fellowship in AI and Biomedical Ethics at the Stanford Center for Biomedical Ethics.
 
+Press
+------
+- A [piece](https://www.biospace.com/achieving-data-diversity-through-ai-in-drug-development) in BioSpace about data diversity in AI-driven drug development. 
+- A [piece](https://www.lesahel.org/dr-jalil-djiberou-mahamadou-chercheur-en-intelligence-artificielle-a-luniversite-de-stanford-a-la-silicon-valley-usa-mes-travaux-de-recherches-a-stanford-tentent-d/) about my research and the potential of AI for Niger by a national news outlet.
+
+
 Teaching
 ------
-I enjoy teaching and have accumulated more than 240 hours of teaching experience on diverse topics ranging from AI development to relational databases and research ethics. Moreover, my experience spans different universities, countries, and continents including Stanford University (California), the University of Clermont Auvergne (France), and the African Development University (Niger). 
+I enjoy teaching and have accumulated over 240 hours of teaching experience on diverse topics ranging from AI development to relational databases and research ethics. Moreover, my experience spans different universities, countries, and continents including Stanford University (California), the University of Clermont Auvergne (France), and the African Development University (Niger). 
 
 **Stanford University, Stanford, California, USA - 34 hours**
 - Foundation of Bioethics, Winter 2024
