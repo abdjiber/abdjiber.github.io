@@ -36,6 +36,11 @@ News
 - OHBM 2023: I presented my work on AI and Cognitive Aging at the [Organization for Human Brain Mapping Annual Meeting](https://event.fourwaves.com/ohbm2023/pages).
 - June 2023: I started my postdoctoral fellowship in AI and Biomedical Ethics at the Stanford Center for Biomedical Ethics.
 
+Projects
+-------
+- [LLM Water Tracker](https://github.com/abdjiber/llm-water-tracker): I attended a seminar at Stanford on responsible AI during which a panelist made a call on the awareness of LLMs environmental impact, notably, the cost of inference on water usage. I spent a weekend developing **LLM Water Tracker**, a Google Chrome Extension that tracks LLM inference water usage equivalence across web LLM platforms including chatgpt.com, gemini.google.com, and claude.ai. The goal of this tool is to help people make environmentally conscious LLM use. 
+- ZarmaTrad: My mother tongue is Zarma, a dialect spoken in Niger and Mali. It is an oral-only language and is under-resourced. We could find only almost twenty-year-old English, French, and Zarma dictionaries on the internet. Our goal is to develop a machine translation AI model for this language. 
+  
 Press
 ------
 - A [piece](https://www.biospace.com/achieving-data-diversity-through-ai-in-drug-development) in BioSpace about data diversity in AI-driven drug development. 
