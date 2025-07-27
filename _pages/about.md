@@ -25,7 +25,7 @@ I hold a PhD in Computer Science, an MSc in Computer Science, an MEng in Applied
 
 I am excited about developing technologies that benefit everyone and contributing to socio-technical projects to achieve this endeavor. 
 
-For more about my academic journey, please see my [Resume](/files/Resume_Abdoul_Jalil_Djiberou_Mahamadou__March_2025.pdf) and [CV](/files/CV_Abdoul_Jalil_Djiberou_Mahamadou_Jan_2025.pdf).
+For more about my academic journey, please see my [Resume](/files/Resume_Abdoul_May_2025.pdf) and [CV](/files/CV-Abdoul-June-2025.pdf).
 
 News
 ------
