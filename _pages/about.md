@@ -10,25 +10,26 @@ redirect_from:
 
 About 
 ------
-I am a postdoctoral researcher at the [Stanford Center for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on three key areas:
+I am a postdoctoral researcher at the [Stanford Centre for Biomedical Ethics](https://med.stanford.edu/bioethics.html), where I study AI's ethical, legal, and social implications. My research focuses on three key areas:
 
 - **AI Bias and Fairness**: My work in AI bias and fairness lies from a technical and practical perspective. From a technical perspective, I develop new bias and fairness metrics, as well as fairness-aware AI models. This work [includes](https://arxiv.org/pdf/2405.01711) novel individual fairness and an extended fairness-aware Logistic Regression model. Practically, I am working on stakeholder engagement in bias mitigation efforts, specifically on how stakeholders can help AI developers identify non-apparent subpopulations at risk of AI harm. This work is motivated by the fact that most group fairness interventions rely on apparent subpopulations, such as demographics, assuming that vulnerable populations are known, which is not always the case.
 
-- **Diversity, Equity, and Inclusion**: In this work, in collaboration with Dr. Mildred Cho and Dr. Nicole Martinez-Martin, we engage AI practitioners to understand how they conceptualize and formalize diversity, equity, and inclusion in the collection of datasets, AI development, and deployment. The project aims to develop guidance to support the creation of fair datasets for healthcare AI.
+- **Diversity, Equity, and Inclusion**: In this work, in collaboration with Dr Mildred Cho and Dr Nicole Martinez-Martin, we engage AI practitioners to understand how they conceptualise and formalise diversity, equity, and inclusion in the collection of datasets, AI development, and deployment. The project aims to develop guidance to support the creation of fair datasets for healthcare AI.
 
 - **Ethical Implications of Healthcare AI Tools**: I am working with Dr. Michelle Mello and Dr. Danton Char at the [HEAL-AI Lab](https://impact.stanford.edu/healthcare-ai) to assess the ethical considerations surrounding healthcare AI tools considered for deployment at Stanford Healthcare. We engage various stakeholders, including patients, clinicians, AI developers, and providers, in our assessment to hear their concerns about the AI tools.
 
 
-Before joining Stanford, I completed a postdoctoral fellowship in AI and cognitive aging at Simon Fraser University. I applied AI to determine the association between lifestyle activities and cognitive health, aiming to personalize interventions that mitigate cognitive decline in older adults. I also undertook a short postdoctoral fellowship at Clermont Auvergne University, where I contributed to the development of an innovative, explainable algorithm and a concept drift detection method for stream data.
+Before joining Stanford, I completed a postdoctoral fellowship in AI and cognitive aging at Simon Fraser University. I applied AI to determine the association between lifestyle activities and cognitive health, aiming to personalise interventions that mitigate cognitive decline in older adults. I also undertook a short postdoctoral fellowship at Clermont Auvergne University, where I contributed to the development of an innovative, explainable algorithm and a concept drift detection method for stream data.
 
-I hold a PhD in Computer Science, an MSc in Computer Science, an MEng in Applied Mathematics from Clermont Auvergne University, and a BSc in Applied Mathematics from Sidi Mohamed Ben Abdellah University. My academic journey has been recognized with several prestigious grants, awards, and distinctions, including the Mitacs Accelerate Postdoctoral Fellowship Grant and recognition as one of the top-performing Nigerien students in France in 2019.
+I hold a PhD in Computer Science, an MSc in Computer Science, an MEng in Applied Mathematics from Clermont Auvergne University, and a BSc in Applied Mathematics from Sidi Mohamed Ben Abdellah University. My academic journey has been recognised with several prestigious grants, awards, and distinctions, including the Mitacs Accelerate Postdoctoral Fellowship Grant and recognition as one of the top-performing Nigerien students in France in 2019.
 
-I am excited about developing technologies that benefit everyone and contributing to socio-technical projects to achieve this endeavor. 
+I am excited about developing technologies that benefit everyone and contributing to socio-technical projects to achieve this endeavour. 
 
-For more about my academic journey, please see my [Resume](/files/Resume_Abdoul_May_2025.pdf) and [CV](/files/CV-Abdoul-June-2025.pdf).
+For more about my academic journey, please see my [Resume](/files/Resume_Abdoul_May_2025.pdf) and [CV](https://docs.google.com/document/d/1Hx8qZOpMz9eISW-kduygMhXTU-KtH1fUCN9TU7KmEu8/edit?usp=sharing).
 
 News
 ------
+- October 2025: My paper ["Reframing Justice in Healthcare AI: An Ubuntu-Based Approach for Africa"](https://onlinelibrary.wiley.com/doi/epdf/10.1111/dewb.70007) is now available online in the Developing World Bioethics journal
 - September 2025: My paper "Reframing Justice in Healthcare AI: An Ubuntu-Based Approach for Africa" is accepted for publication in the Developing World Bioethics journal.
 - July 2025: My paper "Algorithmic Fairness Beyond Legally Protected Groups and When Group Labels Are Unknown" is accepted for presentation at the [AI Ethics and Society (AIES) Conference](https://www.aies-conference.com/2025/).
 - June 2025: I have an accepted abstract "On Defining “Vulnerable Groups” In AI Bias Mitigation Solutions" and panel "Staying One Step Ahead: Emerging AI, Eroding Ethical Principles, and the Impact on Clinical AI Deployment" at the 27th [American Society for Bioethics and Humanities](https://asbh.org/) Annual Conference.
@@ -38,11 +39,11 @@ News
 - Sep 2024: I presented my work on algorithmic fairness at the 26th [American Society for Bioethics and Humanities](https://asbh.org/) Annual Conference.
 - Oct 2023: I co-presented a panel on "Artificial intelligence for precision medicine: How close to ‘personalized’ can we really get?" at the 6th [Ethical, Legal, and Social Implications of Genomic Research Annual Meeting](https://elsicon2024.eventscribe.net/).
 - June 2023: I presented my work on AI and Cognitive Aging at the [Organization for Human Brain Mapping Annual Meeting](https://event.fourwaves.com/ohbm2023/pages).
-- June 2023: I started my postdoctoral fellowship in AI and Biomedical Ethics at the Stanford Center for Biomedical Ethics.
+- June 2023: I started my postdoctoral fellowship in AI and Biomedical Ethics at the Stanford Centre for Biomedical Ethics.
 
 Projects
 -------
-- [LLM Water Tracker](https://github.com/abdjiber/llm-water-tracker): I attended a seminar at Stanford on responsible AI during which a panelist made a call on the awareness of LLMs environmental impact, notably, the cost of inference on water usage. I spent a weekend developing **LLM Water Tracker**, a Google Chrome Extension that tracks LLM inference water usage equivalence across web LLM platforms including chatgpt.com, gemini.google.com, and claude.ai. This tool aims to help people make environmentally conscious LLM use. 
+- [LLM Water Tracker](https://github.com/abdjiber/llm-water-tracker): I attended a seminar at Stanford on responsible AI during which a panellist made a call on the awareness of LLMs' environmental impact, notably, the cost of inference on water usage. I spent a weekend developing **LLM Water Tracker**, a Google Chrome Extension that tracks LLM inference water usage equivalence across web LLM platforms, including chatgpt.com, gemini.google.com, and claude.ai. This tool aims to help people make environmentally conscious LLM use. 
 ZarmaTrad: My mother tongue is Zarma, a dialect spoken in Niger and Mali. It is an oral-only language and is under-resourced. On the Internet, we could find only dictionaries from almost twenty years ago in English, French, and Zarma. Our goal is to develop an AI machine translation model for this language. 
   
 Press
@@ -55,8 +56,8 @@ Teaching
 ------
 I enjoy teaching and have accumulated over 240 hours of teaching experience on diverse topics ranging from AI development to relational databases and research ethics. My experience spans different universities, countries, and continents, including Stanford University (California), the University of Clermont Auvergne (France), and the African Development University (Niger). 
 
-**Stanford University, Stanford, California, USA - 34 hours**
-- Foundation of Bioethics, Winter 2024
+**Stanford University, Stanford, California, USA - +34 hours**
+- Foundation of Bioethics, Winter 2024, Winter, Spring, Fall 2025
 - Responsible Conduct of Research, Fall 2023, Autumn 2024, Spring 2025
 
 **African Development University, Niamey, Niger - 30 hours**
