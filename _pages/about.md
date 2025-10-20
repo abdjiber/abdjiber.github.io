@@ -65,14 +65,11 @@ Selected Publications and Presentations ([Google Scholar Profile](https://schola
 1. Ochasi, A., **Mahamadou, A. J. D.**, Altman, R., Nkwocha, L.U.C. (2025). Reframing Justice in Healthcare AI: An Ubuntu-Based Approach for Africa. Developing World Bioethics. https://doi.org/10.1111/dewb.70007.
 2. **Mahamadou, A. J. D.**, Rodrigues, E. A., Vakorin, V., Antoine, V., & Moreno, S. (2025). Interpretable Machine Learning for Precision Cognitive Aging. Frontiers in Computational Neuroscience, 19, 1560064.
 3. **Mahamadou, A. J. D.**, & Trotsyuk, A. A. (2025). Revisiting technical bias mitigation strategies. Annual Review of Biomedical Data Science, 8.
-4.	**Mahamadou, A. J. D.**, Artem A. Trotsyuk. (2024). Revisiting Technical Bias Mitigation Strategies. ArXiv:2410.17433.
-5.	**Mahamadou, A. J. D.**, Lea Goetz, Russ B. Altman. (2024). Individual Fairness Through Reweighting and Tuning. ArXiv:2405.01711.
-6.	**Mahamadou, A. J. D.**, Emma A. Rodrigues, Vasily Vakorin, Violaine Antoine, Sylvain Moreno. (2024). Interpretable Machine Learning for Precision Cognitive Aging. Cognitive Computation. Under Review.
-7.	**Mahamadou, A. J. D.**, Aloysius Ochasi, Russ B. Altman. (2024). Data Ethics in the Era of Healthcare Artificial Intelligence in Africa: An Ubuntu Philosophy Perspective. Preprint. ArXiv:2406.10121. 
-8.	**Mahamadou, A. J. D.**, Emma A. Rodrigues*, Vasily Vakorin, Sylvain Moreno. (2023). Lifestyle Factors and Cognitive Aging: A Personalized Approach. Organization for Human Brain Mapping Annual Meeting.
-9.	Anne Marthe Sophie Ngo, **Mahamadou, A. J. D.**, Michael F. Mbouopda, Engelbert MN. (2022). DragStream: An anomaly and concept drift detector in data streams. International Conference on Data Mining IncrLearn Workshop.
-10.	Emma A. Rodrigues, **Mahamadou, A. J. D.**, Violaine Antoine, Sylvain Moreno. (2022). Profiling the Healthy Aging Population: A Machine Learning Approach. Cognitive Neuroscience Society Annual Meeting.
-11.	Nicolas Kerckhove et al. (2021). eDOL mHealth App and Web Platform for Self-monitoring and Medical Follow-up of Patients With Chronic Pain: Observational Feasibility Study. Journal of Medical Internet Research.
-12.	**Mahamadou, A. J. D.**, Antoine Violaine, Nguifo Engelbert Mephu, Moreno Sylvain. (2021). Apport de l’entropie pour les c-moyennes floues sur des données catégorielles. Revue des Nouvelles Technologies de l’Information.
-13.	**Mahamadou, A. J. D.**, Antoine Violaine, Nguifo Engelbert, Moreno Sylvain. (2020). Categorical fuzzy entropy c-means. IEEE International Conference on Fuzzy Systems.
-14.	**Mahamadou, A. J. D.**, Antoine Violaine, Christie Gregory, Moreno Sylvain. (2019). Evidential clustering for categorical data. International Conference on Fuzzy Systems.
+4. **Mahamadou, A. J. D.**, Lea Goetz, Russ B. Altman. (2024). Individual Fairness Through Reweighting and Tuning. ArXiv:2405.01711.
+5.	**Mahamadou, A. J. D.**, Emma A. Rodrigues*, Vasily Vakorin, Sylvain Moreno. (2023). Lifestyle Factors and Cognitive Aging: A Personalized Approach. Organization for Human Brain Mapping Annual Meeting.
+6.	Anne Marthe Sophie Ngo, **Mahamadou, A. J. D.**, Michael F. Mbouopda, Engelbert MN. (2022). DragStream: An anomaly and concept drift detector in data streams. International Conference on Data Mining IncrLearn Workshop.
+7.	Emma A. Rodrigues, **Mahamadou, A. J. D.**, Violaine Antoine, Sylvain Moreno. (2022). Profiling the Healthy Aging Population: A Machine Learning Approach. Cognitive Neuroscience Society Annual Meeting.
+8.	Nicolas Kerckhove et al. (2021). eDOL mHealth App and Web Platform for Self-monitoring and Medical Follow-up of Patients With Chronic Pain: Observational Feasibility Study. Journal of Medical Internet Research.
+9.	**Mahamadou, A. J. D.**, Antoine Violaine, Nguifo Engelbert Mephu, Moreno Sylvain. (2021). Apport de l’entropie pour les c-moyennes floues sur des données catégorielles. Revue des Nouvelles Technologies de l’Information.
+10.	**Mahamadou, A. J. D.**, Antoine Violaine, Nguifo Engelbert, Moreno Sylvain. (2020). Categorical fuzzy entropy c-means. IEEE International Conference on Fuzzy Systems.
+11.	**Mahamadou, A. J. D.**, Antoine Violaine, Christie Gregory, Moreno Sylvain. (2019). Evidential clustering for categorical data. International Conference on Fuzzy Systems.
