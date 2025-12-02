@@ -16,6 +16,7 @@ Read more about his journey in his [CV](https://docs.google.com/document/d/1Hx8q
 
 News
 ------
+- November 2025: Our lab paper, "The AI Arms Race in Health Insurance Utilization Review", where I'm the third coauthor, is accepted for publication in the Health Affairs journal and my first coauthor Open Peer Commentary, "Mitigating Bias in Sepsis Risk Prediction Models: Insights from a Stakeholder-Based Ethical Assessment", is accepted for publication in the American Journal of Bioethics. 
 - October 2025: My paper ["Reframing Justice in Healthcare AI: An Ubuntu-Based Approach for Africa"](https://onlinelibrary.wiley.com/doi/epdf/10.1111/dewb.70007) is now available online in the Developing World Bioethics journal.
 - September 2025: My paper "Reframing Justice in Healthcare AI: An Ubuntu-Based Approach for Africa" is accepted for publication in the Developing World Bioethics journal.
 - July 2025: My paper "Algorithmic Fairness Beyond Legally Protected Groups and When Group Labels Are Unknown" is accepted for presentation at the [AI Ethics and Society (AIES) Conference](https://www.aies-conference.com/2025/).
